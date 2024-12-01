@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputActions",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "af2cae16-a752-4012-bae6-fe458633bed2",
+            "actions": [
+                {
+                    "name": "TapScreen",
+                    "type": "Button",
+                    "id": "6f929764-627a-44c6-981f-b7fdf3bc195a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ab595038-b099-4c4e-b62a-df949071e6e0",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TapScreen",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

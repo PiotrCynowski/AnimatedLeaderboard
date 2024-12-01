@@ -1,0 +1,185 @@
+{
+    "ranking": [
+        {
+            "player": {
+                "uid": "47d341a3-d6dc-4b73-a398-ae390c7df50f",
+                "username": "Player_5931",
+                "isVip": false,
+                "countryCode": "DE",
+                "characterColor": "ED8C54",
+                "characterIndex": 4
+            },
+            "ranking": 1,
+            "points": 21180
+        },
+        {
+            "player": {
+                "uid": "6a44ba2b-4083-4f2c-9a04-cbe1163b58be",
+                "username": "Player_8502",
+                "isVip": false,
+                "countryCode": "IT",
+                "characterColor": "829487",
+                "characterIndex": 3
+            },
+            "ranking": 2,
+            "points": 97192
+        },
+        {
+            "player": {
+                "uid": "a4af13cf-a22a-461d-a59a-b45d029b6cc8",
+                "username": "Player_9755",
+                "isVip": true,
+                "countryCode": "CN",
+                "characterColor": "F57F48",
+                "characterIndex": 1
+            },
+            "ranking": 3,
+            "points": 93732
+        },
+        {
+            "player": {
+                "uid": "41129345-22fd-492a-895f-7e55c2bc3125",
+                "username": "Player_5841",
+                "isVip": false,
+                "countryCode": "DE",
+                "characterColor": "C25A0B",
+                "characterIndex": 2
+            },
+            "ranking": 4,
+            "points": 48100
+        },
+        {
+            "player": {
+                "uid": "77dc8feb-d92b-47f0-9675-f5f512be61a0",
+                "username": "Player_7361",
+                "isVip": true,
+                "countryCode": "ES",
+                "characterColor": "ECD391",
+                "characterIndex": 3
+            },
+            "ranking": 5,
+            "points": 43279
+        },
+        {
+            "player": {
+                "uid": "44cf54ca-5005-4282-8c22-4f2b808b040d",
+                "username": "Player_2226",
+                "isVip": false,
+                "countryCode": "US",
+                "characterColor": "E0BCEF",
+                "characterIndex": 2
+            },
+            "ranking": 6,
+            "points": 47887
+        },
+        {
+            "player": {
+                "uid": "dd3f2602-fcca-4434-916c-1dbed9e1f029",
+                "username": "Player_4714",
+                "isVip": true,
+                "countryCode": "DE",
+                "characterColor": "33C218",
+                "characterIndex": 4
+            },
+            "ranking": 7,
+            "points": 87634
+        },
+        {
+            "player": {
+                "uid": "dbd31d10-eee4-4ca5-ac7a-b50fefff9268",
+                "username": "Player_4423",
+                "isVip": true,
+                "countryCode": "CN",
+                "characterColor": "5DFDD7",
+                "characterIndex": 3
+            },
+            "ranking": 8,
+            "points": 98580
+        },
+        {
+            "player": {
+                "uid": "2daeb2d9-b52c-4562-9180-a8093d7f5d34",
+                "username": "Player_2754",
+                "isVip": false,
+                "countryCode": "US",
+                "characterColor": "A72207",
+                "characterIndex": 4
+            },
+            "ranking": 9,
+            "points": 71817
+        },
+        {
+            "player": {
+                "uid": "7d89bea5-1c72-4971-8c44-f29a31355cdf",
+                "username": "Player_2079",
+                "isVip": false,
+                "countryCode": "DE",
+                "characterColor": "ECB5D8",
+                "characterIndex": 3
+            },
+            "ranking": 10,
+            "points": 42576
+        },
+        {
+            "player": {
+                "uid": "835b82fd-85e4-431f-b64b-3f8ce0895693",
+                "username": "Player_1930",
+                "isVip": false,
+                "countryCode": "FR",
+                "characterColor": "F0D89B",
+                "characterIndex": 2
+            },
+            "ranking": 11,
+            "points": 65837
+        },
+        {
+            "player": {
+                "uid": "f9556375-5a51-48ff-98f8-82be89b99dc1",
+                "username": "Player_3840",
+                "isVip": false,
+                "countryCode": "BR",
+                "characterColor": "6AE4BF",
+                "characterIndex": 1
+            },
+            "ranking": 12,
+            "points": 98868
+        },
+        {
+            "player": {
+                "uid": "c39a5158-7ddd-4aef-a6ad-ce55b9017d04",
+                "username": "Player_1024",
+                "isVip": true,
+                "countryCode": "FR",
+                "characterColor": "76194D",
+                "characterIndex": 3
+            },
+            "ranking": 13,
+            "points": 33660
+        },
+        {
+            "player": {
+                "uid": "519a617a-76e4-466e-ab63-703d71acccd9",
+                "username": "Player_3798",
+                "isVip": false,
+                "countryCode": "DE",
+                "characterColor": "F34BC9",
+                "characterIndex": 2
+            },
+            "ranking": 14,
+            "points": 65950
+        },
+        {
+            "player": {
+                "uid": "4bb56c4c-d198-4136-bed1-39eeb9877d71",
+                "username": "Player_8098",
+                "isVip": false,
+                "countryCode": "BR",
+                "characterColor": "5F1A25",
+                "characterIndex": 1
+            },
+            "ranking": 15,
+            "points": 21391
+        }
+    ],
+    "playerUID": "d4dc2123-72ea-468e-97cf-aac3473951bc"
+}
