@@ -4,6 +4,10 @@ A dynamic and animated leaderboard system built in Unity. Designed for use in ga
 
 ---
 
+![Screenshot](https://github.com/PiotrCynowski/AnimatedLeaderboard/blob/master/Pics/gameplay.png?raw=true)
+
+---
+
 ## ▶️ How to Run
 - `Scenes/Main.unity` – The main scene to run the leaderboard demo.
 - Ensure you're testing in **Simulator View**, **not Game View**. The UI is built with dynamic sizing and animations optimized for simulator preview.
