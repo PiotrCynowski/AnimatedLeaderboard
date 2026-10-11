@@ -1,4 +1,4 @@
-# 🏆 Unity Leaderboard System
+# Unity Leaderboard System
 
 A dynamic and animated leaderboard system built in Unity. Designed for use in games to visually present player rankings, avatars, and stats with flair.
 
@@ -8,18 +8,18 @@ A dynamic and animated leaderboard system built in Unity. Designed for use in ga
 
 ---
 
-## ▶️ How to Run
+## How to Run
 - `Scenes/Main.unity` – The main scene to run the leaderboard demo.
 - Ensure you're testing in **Simulator View**, **not Game View**. The UI is built with dynamic sizing and animations optimized for simulator preview.
 
 ---
 
-## 🔁 Controls
+## Controls
 
 - Tap or click anywhere to **reveal the leaderboard**.
 - Press the **exit button** to generate a new randomized leaderboard entry set.
 
-## 🛠 Features
+## Features
 
 - Dynamic UI scaling for leaderboard entries.
 - Object pooling for efficient UI element reuse.
@@ -29,7 +29,7 @@ A dynamic and animated leaderboard system built in Unity. Designed for use in ga
 
 ---
 
-## 🧪 Developer Tools
+## Developer Tools
 
 - A custom editor utility is included:  
 **Tools > User Entry Json Generator**  
@@ -40,14 +40,14 @@ This lets you:
 
 ---
 
-## 🧩 Dependencies
+## Dependencies
 
 - **DOTween** – Used for smooth UI animations.
 - **Input System** – Handles tap/click input for simulator interactions.
   Make sure DOTween is installed and setup via:
   Tools > Demigiant > DOTween Utility Panel > Setup DOTween...
 
-## 📌 Notes
+## Notes
 
 - Sprite assets (e.g., flags, avatars, podiums) are managed via `LeaderboardSpriteSelector` ScriptableObjects.
 - If JSON assignment fails at runtime, ensure `Resources/` contains valid JSON files and GameManager is initialized correctly.
